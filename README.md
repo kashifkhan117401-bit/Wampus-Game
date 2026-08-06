@@ -110,6 +110,7 @@ This launches a background HTTP server and opens a companion browser-based UI at
 
 The game features a tactical field UI showing:
 - Main menu with deployment prompt
+[(https://github.com/kashifkhan117401-bit/Wampus-Game/blob/main/Documentation/1.png?raw=true)]
 - Live HUD (score, position, mode)
 - Revealed hazard tiles (pits, Wumpus, gold) with tactical iconography
 - Mission outcome screens (success / failure)
