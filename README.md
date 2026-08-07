@@ -1,6 +1,6 @@
 # Wumpus World — Tactical Field Edition
 
-A Python/Pygame implementation of the classic AI **Wumpus World** problem, featuring a 4x4 grid environment, procedural hazard generation, a knowledge-based autonomous agent, and a tactical military-themed UI..
+A Python/Pygame implementation of the classic AI **Wumpus World** problem, featuring a 4x4 grid environment, procedural hazard generation, a knowledge-based autonomous agent, and a tactical military-themed UI.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.x-blue) ![Pygame](https://img.shields.io/badge/pygame-2.6.1-orange)
 
