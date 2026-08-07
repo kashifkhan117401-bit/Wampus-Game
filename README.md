@@ -6,7 +6,7 @@ A Python/Pygame implementation of the classic AI **Wumpus World** problem, featu
 
 ---
 
-## 📖 Overview
+## 📖 Overview 
 
 This project simulates the classic **Wumpus World** — an AI environment used to teach propositional logic and knowledge-based agents. The player (or an autonomous agent) explores a hidden 4x4 grid, avoiding pits and the deadly Wumpus, while trying to locate and grab the gold and return safely.
 
